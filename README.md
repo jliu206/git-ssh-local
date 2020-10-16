@@ -69,5 +69,9 @@ Then you need to add the ssh key to the github:
 check you key by : cat ~/.ssh/id_rsa.pub  
 
 
+## switch between branches
+You can swithch between branches, and it will shown accordingly in you local machine:
+git checkout /branch_name
+
 
 
